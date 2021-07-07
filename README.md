@@ -12,7 +12,7 @@ I am a Front End Developer from Brasil.
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubert22&show_icons=true&theme=tokyonight&&line_height=20)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reubert22&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/reubert22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reubert22&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/reubertbarbosa/)
