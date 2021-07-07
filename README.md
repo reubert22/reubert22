@@ -1,9 +1,9 @@
 ## Hello there, welcome to my profile 👋
-I am a Front-End Developer from Brasil.
+I am a Front End Developer from Brasil.
 
-- 🔭 I’m currently working on multiple frontend projects (inside CI&T and side projects) using React(Js && Native)
-- 🌱 I’m currently learning React(Js && Native) and NodeJs
-- 👯 I’m looking to collaborate on some open projects
+- 🔭 I’m currently working on multiple frontend projects (inside CI&T and side projects) using React (Js && Native) and JavaScript.
+- 🌱 Currently focused on React (Js && Native) and NodeJs.
+- 👯 Open to collaborating on some projects.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/reubertbarbosa/)
