@@ -1,7 +1,7 @@
 ## Hello there, welcome to my profile 👋
 I am a Front End Developer from Brasil.
 
-- 🔭 I’m currently working on multiple frontend projects (inside CI&T and side projects) using React (Js && Native) and JavaScript.
+- 🔭 I’m currently working on multiple frontend projects using React (Js && Native).
 - 🌱 Currently focused on React (Js && Native) and NodeJs.
 - 👯 Open to collaborating on some projects.
 
