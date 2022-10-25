@@ -2,7 +2,7 @@
 I am a Front End Developer from Brasil.
 
 - 🔭 I’m currently working on multiple frontend projects using React (Js && Native).
-- 🌱 Currently focused on React (Js && Native) and NodeJs.
+- 🌱 Currently focused on React (Js && Native).
 - 👯 Open to collaborating on some projects.
 
 <br>
