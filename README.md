@@ -1,7 +1,7 @@
 ## Hello there, welcome to my profile 👋
-I am a Front End Developer from Brasil.
+I'm a Front End Developer from Brazil.
 
-- 🔭 I’m currently working on multiple frontend projects using React (Js && Native).
+- 🔭 I’m working on multiple frontend projects using React (Js && Native).
 - 🌱 Focused on React (Js && Native).
 - 👯 Open to collaborating on some projects.
 
